@@ -12,7 +12,11 @@
 ##
 <div style = "display: inline_block"><br> 
     <img allign = "center" alt= "peta-R" height= "30" wifth= "40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />
-    <img allign = "center" alt= "peta-MySQL" height= "30" wifth= "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" 
-    <img allign = "center" alt= "peta-Python" height= "30" wifth= "40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-          
+    <img allign = "center" alt= "peta-MySQL" height= "30" wifth= "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+    <img allign = "center" alt= "peta-Python" height= "30" wifth= "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+    <img allign = "center" alt= "peta-html" height= "30" wifth= "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+    <img allign = "center" alt= "peta-css" height= "30" wifth= "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+              
+           
+                
 </div>        
