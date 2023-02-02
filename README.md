@@ -1,16 +1,18 @@
-### Hi there 👋
+### Olá Eu sou Felipe Dias 
 
-<!--
-**Peta10dias/Peta10dias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Hoje trabalho com Ciência de Dados 
+- 🌱 Estudando Python, R e SQL 
+- 📫 Contate-me no email: luizfelipediasdl@gmail.com
+- 😄 Pronouns: ele/dele
 
-Here are some ideas to get you started:
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Peta10dias&layout=compact&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Peta10dias&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Peta10dias&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##
+<div style = "display: inline_block"><br> 
+    <img allign = "center" alt= "peta-R" height= "30" wifth= "40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />
+    <img allign = "center" alt= "peta-MySQL" height= "30" wifth= "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" 
+    <img allign = "center" alt= "peta-Python" height= "30" wifth= "40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+          
+</div>        
