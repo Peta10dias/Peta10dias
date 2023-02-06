@@ -17,6 +17,6 @@
     <img allign = "center" alt= "peta-html" height= "30" wifth= "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
     <img allign = "center" alt= "peta-css" height= "30" wifth= "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
               
-           
+            
                 
 </div>        
