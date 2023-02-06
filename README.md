@@ -5,10 +5,9 @@
 - 📫 Contate-me no email: luizfelipediasdl@gmail.com
 - 😄 Pronouns: ele/dele
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Peta10dias&layout=compact&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Peta10dias&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Peta10dias&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Peta10dias&count_private=true&layout=compact&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Peta10dias&langs_count=8&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Peta10dias&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 ##
 <div style = "display: inline_block"><br> 
     <img allign = "center" alt= "peta-R" height= "30" wifth= "40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />
